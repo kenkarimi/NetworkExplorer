@@ -1,0 +1,1 @@
+Testing the replacement of the deprecated getActiveNetworkInfo().isConnected() method in Android which was deprecated because it doesn't provide accurate information about network connectivity in all scenarios.
